@@ -1,2 +1,2 @@
 # Boolean-Algebra
-This project do some boolean operation on numbers and functions
+This project do some boolean operations on numbers and functions
